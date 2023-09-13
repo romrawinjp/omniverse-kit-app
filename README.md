@@ -18,6 +18,6 @@ Drag around viewport as you want.
 
 # How to Read `.usd` file
 
-1. from the window, click open and select (for example, my) `bento.usd` file.
+1. from the window, click file -> open and select (for example, my) `bento.usd` file.
 
 This will open your latest work as a `.usd` file. 
