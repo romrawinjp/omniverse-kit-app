@@ -1,4 +1,4 @@
-# Demo Applications from Essentials of Developing Omniverse Kit Applications Course
+# My Demo Application from Essentials of Developing Omniverse Kit Applications Course
 
 # How to Run the App
 
